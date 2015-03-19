@@ -1,0 +1,11 @@
+<p>
+  <%= label_tag :settings_overview, l(:project_overview_page_settings_overview) %>
+  <%= text_field_tag "settings[overview]", @settings["overview"] %>
+  <span class="hint"><%= l(:project_overview_page_settings_overview_hint) %></span>
+</p>
+
+<p>
+  <%= label_tag :settings_sidebar, l(:project_overview_page_settings_sidebar) %>
+  <%= text_field_tag "settings[sidebar]", @settings["sidebar"] %>
+  <span class="hint"><%= l(:project_overview_page_settings_sidebar_hint) %></span>
+</p>

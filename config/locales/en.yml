@@ -1,0 +1,6 @@
+en:
+  project_overview_page_sidebar_label: "Sidebar"
+  project_overview_page_settings_overview: "Overview page"
+  project_overview_page_settings_overview_hint: "The identifer for the wiki page to use as overview"
+  project_overview_page_settings_sidebar: "Sidebar page"
+  project_overview_page_settings_sidebar_hint: "The identifer for the wiki page to use as sidebar"
