@@ -1,4 +1,18 @@
+[github]: https://github.com/neopoly/redmine-project_overview_page
+[doc]: http://rubydoc.info/github/neopoly/redmine-project_overview_page/master/file/README.md
+[gem]: https://rubygems.org/gems/redmine-project_overview_page
+[gem-badge]: https://img.shields.io/gem/v/redmine-project_overview_page.svg
+[inchpages]: https://inch-ci.org/github/neopoly/redmine-project_overview_page
+[inchpages-badge]: https://inch-ci.org/github/neopoly/redmine-project_overview_page.svg?branch=master&style=flat
+
 # redmine-project_overview_page
+
+[![Gem Version][gem-badge]][gem]
+[![Inline docs][inchpages-badge]][inchpages]
+
+[Gem][gem] |
+[Source][github] |
+[Documentation][doc]
 
 Uses special wiki pages as the projects start page and it's sidebar
 
